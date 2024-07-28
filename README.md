@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vedant Surve</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F11jacPItBsJDLa%2Fgiphy.gif&f=1&nofb=1&ipt=a932d5250417df36acc00bc8041a910d360798bb904f509b6c6658fee612ff69&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=survevedant&label=Profile%20views&color=0e75b6&style=flat" alt="survevedant" /> </p>
 
-- 🌱 I’m currently learning **AWS , GCP**
+- 🌱 I’m currently learning **Docker , Jenkins**
 
-- 👯 I’m looking to collaborate on **Android Development**
-
-- 🤝 I’m looking for help with **Cloud Computing**
+- 👯 I’m looking to collaborate on **AWS PROJECTS**
 
 - 📫 How to reach me **vedant20surve@gmail.com**
 
